@@ -15,7 +15,9 @@ This program is aimed at realizing TU/e’s Vision on Education towards (1) lear
 DRIVE is open to TU/e educators who wish to experiment with innovative approaches to teaching and learning using digital technologies. The program offers a structured opportunity to apply for funding and support to run pilot projects within the aforementioned five topics.
 Each year, there are two moments to submit proposals for new pilot projects. These projects fall under Route I of the DRIVE program, which continues the bottom-up, educator-driven approach that made BOOST! a success. Proposals should address one or more of the program’s core themes and demonstrate potential to enhance student learning.
 
+
 > Educators are encouraged to experiment, co-develop solutions in collaboration with students, and contribute to a growing body of innovative educational practices at TU/e. Selected proposals receive funding, access to support services, and opportunities for collaboration with experts from the university’s educational and IT services.
+
 
 ## The Four Routes of DRIVE
 DRIVE consists of four interconnected routes which together help achieve the vision on education of the TU/e.

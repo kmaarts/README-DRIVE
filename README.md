@@ -21,13 +21,13 @@ Each year, there are two moments to submit proposals for new pilot projects. The
 
 ## The Four Routes of DRIVE
 DRIVE consists of four interconnected routes which together help achieve the vision on education of the TU/e.
-**Route I – Educator-Driven Innovation (BOOST! 2.0):**
+* **Route I – Educator-Driven Innovation (BOOST! 2.0):**
 This route supports pilot projects initiated by educators. Proposals should address themes such as Artificial Intelligence in education, Learning Analytics, XR/VR, Modularization, and E-assessment. The aim is to enable hands-on experimentation and co-creation of educational innovations, just like BOOST!.
-**Route II – Vision-Driven Development:**
+* **Route II – Vision-Driven Development:**
 This route initiates projects that are necessary to realize TU/e’s educational vision but are less likely to arise through individual educator initiatives alone. Route II focuses on building a flexible and sustainable EdTech landscape by prioritizing strategic developments at a program-wide level.
-**Route III – Scaling up High-Potential Pilots:**
+* **Route III – Scaling up High-Potential Pilots:**
 Successful pilots often remain isolated. This route is dedicated to identifying high-potential projects from BOOST! and DRIVE and supporting their transition from pilot to implementation within education and beyond. 
-**Route IV – Organizational Learning:**
+* **Route IV – Organizational Learning:**
 Educational innovation requires an adaptive and forward-thinking organization. This route focuses on strengthening TU/e’s capacity for innovation through professional development, improved governance, and policy development related to EdTech.
 
 ## How to Get Involved

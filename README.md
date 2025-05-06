@@ -23,17 +23,17 @@ Education innovation pilots are mostly initiated and executed within a specific 
 Educational innovation requires an adaptive and forward-thinking organization. This route focuses on monitoring and stimulating the university’s development into an innovation-ready institution. It strengthens the university’s capacity to adapt to changes by improving internal processes, aligning policies, and connecting with national programs like Npuls. This route makes the organization more agile, so it can better support the ongoing implementation and sustainability of educational innovations.
 
 ## How to Get Involved
-Are you interested in innovating education at TU/e? Do you have ideas for innovation pilots? Do you see potential for your implemented innovation to scale up to other courses or department? Do you want to contribute to the vision-driven developments on one of the DRIVE topics? Let us know! 
+Are you interested in innovating education at TU/e? Do you have ideas for innovation pilots? Do you see potential for your implemented innovation to scale up to other courses or department? Do you want to contribute to the vision-driven developments on one of the DRIVE topics? Let us know! <br><br>
 **Route I – Educator-Driven Innovation:** Suzanne Groothuijsen (s.e.a.groothuijsen@tue.nl)  submit your proposal through our [Call for Proposals webpage](https://boost.tue.nl/call-for-proposals/).<br>
-Route II – Vision-Driven Development: Tessa Askamp (t.i.askamp@tue.nl)<br>
-Route II – Topic Drivers and co-Drivers:<br>
-Artificial Intelligence: Edwin Giebelen (j.b.m.e.giebelen@tue.nl)<br>
-Modularization: Edwin Giebelen (j.b.m.e.giebelen@tue.nl)<br>
-Learning Analytics: Suzanne Groothuijsen (s.e.a.groothuijsen@tue.nl)<br>
-E-assessment: t.b.a.<br>
-Virtualization: t.b.a.<br>
-Route III – Scaling up High-Potential Pilots: Tessa Askamp (t.i.askamp@tue.nl) & Karel Aarts (k.m.a.aarts@tue.nl)<br>
-Route IV – Organizational Learning: Ludo van Meeuwen (l.w.v.meeuwen@tue.nl)<br><br>
+**Route II – Vision-Driven Development:** Tessa Askamp (t.i.askamp@tue.nl)<br>
+**Route II – Topic Drivers and co-Drivers:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp; - _Artificial Intelligence: Edwin Giebelen (j.b.m.e.giebelen@tue.nl)_ <br>
+&nbsp;&nbsp;&nbsp;&nbsp; - _Modularization: Edwin Giebelen (j.b.m.e.giebelen@tue.nl)_ <br>
+&nbsp;&nbsp;&nbsp;&nbsp; - _Learning Analytics: Suzanne Groothuijsen (s.e.a.groothuijsen@tue.nl)_ <br>
+&nbsp;&nbsp;&nbsp;&nbsp; - _E-assessment: t.b.a._ <br>
+&nbsp;&nbsp;&nbsp;&nbsp; - _Virtualization: t.b.a._ <br>
+**Route III – Scaling up High-Potential Pilots:** Tessa Askamp (t.i.askamp@tue.nl) & Karel Aarts (k.m.a.aarts@tue.nl)<br>
+**Route IV – Organizational Learning:** Ludo van Meeuwen (l.w.v.meeuwen@tue.nl)<br><br>
 
 Unsure which route would be the best fit for your innovation idea? Contact Suzanne Groothuijsen (s.e.a.groothuijsen@tue.nl).<br><br>
 
